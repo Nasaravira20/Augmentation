@@ -1,0 +1,8 @@
+__pycache__/ 
+ComfyUI/ 
+data/ 
+stable-diffusion/
+research/
+Numerical/data/
+Numerical/lightning_logs/
+
